@@ -1,0 +1,15 @@
+math0 = 3 % 2 + 0
+	  = 1 + 0 
+	  = 1
+
+math1 = 3 % 4 / 3
+	  = 3 / 3
+	  = 1
+	 
+math2 = 2 << 6 >> 1
+	  = 128 >> 1
+	  = 64
+
+bool = true | false & true
+	 = true | false
+	 = true
